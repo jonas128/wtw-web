@@ -1,9 +1,9 @@
-INSERT MANDATORY GIF
+<img src="https://giphy.com/embed/ToMjGpjm9vQhsB4cqVa"> 
 
 # White Trash Web (WTW)
 
-Did you know most websites use white as background colour? I took it one step further and started WTW (White Trash Web)
-Please explore at https://epic-colden-4eb3af.netlify.app
+Did you know most websites use white as background colour? I took it one step further and started WTW (White Trash Web):
+please explore at https://epic-colden-4eb3af.netlify.app
 
 # Installation
 
