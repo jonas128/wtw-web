@@ -1,12 +1,24 @@
 INSERT MANDATORY GIF
 
-# Project Title
+# White Trash Web (WTW)
 
-Text about the project. This would also be a great place to link the game on Netlify.
+Did you know most websites use white as background colour? I took it one step further and started WTW (White Trash Web)
+Please explore at https://epic-colden-4eb3af.netlify.app
 
 # Installation
 
-Add the installation instructions.
+To install this project follow this list
+
+-   Clone the project
+
+```
+git clone https://github.com/jonas128/wtw-web
+```
+
+-   Start php server `php -S localhost:8000`
+
+-   Open up you browser and paste in this link:
+    `http://localhost:8000/index.php`
 
 # Code Review
 
