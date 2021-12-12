@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/ToMjGpjm9vQhsB4cqVa"> 
+<img src="https://media.giphy.com/media/ToMjGpjm9vQhsB4cqVa/giphy.gif"> 
 
 # White Trash Web (WTW)
 
