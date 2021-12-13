@@ -18,7 +18,7 @@ git clone https://github.com/jonas128/wtw-web
 -   Start php server `php -S localhost:8000`
 
 -   Open up you browser and paste in this link:
-    `http://localhost:8000/index.php`
+    `http://localhost:8000/index.html`
 
 # Code Review
 
@@ -32,5 +32,5 @@ git clone https://github.com/jonas128/wtw-web
 
 Tested by the following people:
 
-1. Jane Doe
-2. John Doe
+1. Hanna Rosenberg
+2. Oliver Davis
