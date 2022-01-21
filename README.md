@@ -4,7 +4,6 @@
 
 Did you know most websites use white as background colour? I took it one step further and started WTW (White Trash Web)
 
-
 # Installation
 
 To install this project follow this list
