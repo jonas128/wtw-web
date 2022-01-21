@@ -8,69 +8,69 @@ document.addEventListener('DOMContentLoaded', () => {
   // Create array of cards data
   const cardArray = [
     {
-      name: 'jona',
+      name: '1',
       img: 'images/1.jpg',
     },
     {
-      name: 'naj',
+      name: '2',
       img: 'images/2.jpg',
     },
     {
-      name: 'yes',
-      img: 'images/3.jpg',
+      name: '3',
+      img: 'images/1.jpg',
     },
     {
-      name: 'yes',
-      img: 'images/4.jpg',
+      name: '4',
+      img: 'images/2.jpg',
     },
     {
-      name: 'naj',
-      img: 'images/5.jpg',
+      name: '5',
+      img: 'images/1.jpg',
     },
     {
-      name: 'naj',
-      img: 'images/6.jpg',
+      name: '6',
+      img: 'images/2.jpg',
     },
     {
-      name: 'naj',
-      img: 'images/7.jpg',
+      name: '7',
+      img: 'images/1.jpg',
     },
     {
-      name: 'boker tov jones/jonas',
-      img: 'images/8.jpg',
+      name: 'boker tov',
+      img: 'blank.png',
     },
-    {
-      name: 'yes',
-      img: 'images/9.jpg',
-    },
-    {
-      name: 'yes',
-      img: 'images/10.jpg',
-    },
-    {
-      name: 'naj',
-      img: 'images/11.jpg',
-    },
-    {
-      name: 'yes',
-      img: 'images/12.jpg',
-    },
-    {
-      name: 'naj',
-      img: 'images/13.jpg',
-    },
-    {
-      name: 'naj',
-      img: 'images/14.jpg',
-    },
-    {
-      name: 'yes',
-      img: 'images/15.jpg',
-    },
-    {
-      name: 'yes',
-      img: 'images/16.jpg',
-    },
+    // {
+    //   name: 'yes',
+    //   img: 'images/9.jpg',
+    // },
+    // {
+    //   name: 'yes',
+    //   img: 'images/10.jpg',
+    // },
+    // {
+    //   name: 'naj',
+    //   img: 'images/11.jpg',
+    // },
+    // {
+    //   name: 'yes',
+    //   img: 'images/12.jpg',
+    // },
+    // {
+    //   name: 'naj',
+    //   img: 'images/13.jpg',
+    // },
+    // {
+    //   name: 'naj',
+    //   img: 'images/14.jpg',
+    // },
+    // {
+    //   name: 'yes',
+    //   img: 'images/15.jpg',
+    // },
+    // {
+    //   name: 'yes',
+    //   img: 'images/16.jpg',
+    // },
   ];
 
   // For randomizing card location
