@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'images/2.jpg',
+      img: 'images/1.jpg',
     },
     {
       name: '3',
@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'images/2.jpg',
+      img: 'images/1.jpg',
     },
     {
       name: '5',
@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'images/2.jpg',
+      img: 'images/1.jpg',
     },
     {
       name: '7',
@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: 'boker tov',
-      img: 'blank.png',
+      img: 'images/blank.png',
     },
     // {
     //   name: 'yes',
