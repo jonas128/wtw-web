@@ -36,8 +36,8 @@ document.addEventListener('DOMContentLoaded', () => {
       img: 'images/1.jpg',
     },
     {
-      name: 'boker tov',
-      img: 'images/blank.png',
+      name: 'green',
+      img: 'images/14.jpg',
     },
     // {
     //   name: 'yes',
